@@ -80,5 +80,22 @@ Process Explorer - выводит список выполняемых проце
 
 ## 2.2 Интерфейс пользователя
 <details>
-<symmary>Стартовое меню.</symmary>
-![Стартовое меню](https://user-images.githubusercontent.com/71341849/202244533-31731de6-4cc8-4075-a9d7-5afa51395ad2.png)
+<summary>Стартовое меню.</summary>
+
+![Стартовое меню](https://user-images.githubusercontent.com/71341849/202245009-94432d4f-54e6-4324-a9c2-18a545094aa2.png)
+
+</details>
+
+<details>
+
+<summary>Основное меню.</summary>
+
+![Основное меню](https://user-images.githubusercontent.com/71341849/202245388-357f218c-9287-4f6e-ad07-fbd7621e26c7.png)
+ 
+</details>
+
+<details>
+
+<summary>Помощь в использовании.</summary>
+  
+![Помощь в использовании](https://user-images.githubusercontent.com/71341849/202246087-9f5228a7-388e-4a3f-b98c-525ca08c6071.png)
