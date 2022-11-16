@@ -1,5 +1,6 @@
 # Требования к проекту
 ---
+
 # Содержание
 1 [Введение](#intro)
 1.1 [Назначение](#appointment)  
@@ -23,7 +24,7 @@
 3.1.1.1 [Отображение содержимого каталога](#user_logon_to_the_application)  
 3.1.1.2 [Отображение строки вкладок](#setting_up_the_profile_of_the_active_user)  
 3.1.1.3 [Работа с файлами и каталогами](#download_news)  
-3.1.1.4 [Обработка нажатий на клавиши клавиатуры](#view_information_about_an_individual_newsletter)  
+3.1.1.4 [Обработка нажатий на клавиши клавиатуры](#view_information_about_an_individual_newsletter) 
 3.1.2 [Ограничения и исключения](#restrictions_and_exclusions)  
 3.2 [Нефункциональные требования](#non-functional_requirements)  
 3.2.1 [Атрибуты качества](#quality_attributes)  
