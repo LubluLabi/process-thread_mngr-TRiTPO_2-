@@ -2,7 +2,7 @@
 ---
 
 # Содержание
-1 [Введение](#intro)
+1 [Введение](#intro)  
 1.1 [Назначение](#appointment)  
 1.2 [Бизнес-требования](#business_requirements)  
 1.2.1 [Исходные данные](#initial_data)  
@@ -31,7 +31,7 @@
 3.2.1.1 [Требования к удобству использования](#requirements_for_ease_of_use)  
 3.2.1.2 [Требования к безопасности](#security_requirements)  
 3.2.2 [Внешние интерфейсы](#external_interfaces)  
-3.2.3 [Ограничения](#restrictions)
+3.2.3 [Ограничения](#restrictions)  
 
 <a name="intro"/>
 
