@@ -61,5 +61,7 @@
 
 # Activity
 
+Диаграмма активности в соответствии с вариантом использования.
+
 ![2Activity](https://user-images.githubusercontent.com/71341849/205019181-0c187bd9-a9dc-4555-ae70-34d1e59ea83b.png)
 
