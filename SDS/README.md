@@ -115,3 +115,7 @@
 ## 2.7 Диаграмма последовательности
 
 # Sequence
+
+![seq](https://user-images.githubusercontent.com/71341849/206182486-d6506c06-3a40-46b6-9b46-8bd284ddd38e.png)
+
+
