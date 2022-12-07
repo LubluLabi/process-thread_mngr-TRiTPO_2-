@@ -118,4 +118,9 @@
 
 ![seq](https://user-images.githubusercontent.com/71341849/206182486-d6506c06-3a40-46b6-9b46-8bd284ddd38e.png)
 
+## 2.8 Диаграмма состояний
+
+# State
+
+![State](https://user-images.githubusercontent.com/71341849/206192521-1c129039-7462-4f47-8f25-22aadafea8fb.png)
 
