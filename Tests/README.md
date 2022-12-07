@@ -97,7 +97,7 @@
 
 <a name="7"></a>
 ### 7. Представление результатов
-Результаты тестирования представлены в [таблице](https://github.com/LubluLabi/process-thread_mngr-TRiTPO_2-/blob/main/SDS/Tests/Results.md).
+Результаты тестирования представлены в [таблице](https://github.com/LubluLabi/process-thread_mngr-TRiTPO_2-/blob/main/Tests/Results.md).
 
 <a name="8"></a>
 ### 8. Выводы
