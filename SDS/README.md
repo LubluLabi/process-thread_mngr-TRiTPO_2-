@@ -112,13 +112,7 @@
 
 ![class_diagram](https://user-images.githubusercontent.com/71341849/206003243-181f4bba-4973-4e81-a4bb-0d1efa694f3d.png)
 
-## 2.7 Диаграмма последовательности
-
-# Sequence
-
-![seq](https://user-images.githubusercontent.com/71341849/206182486-d6506c06-3a40-46b6-9b46-8bd284ddd38e.png)
-
-## 2.8 Диаграмма состояний
+## 2.7 Диаграмма состояний
 
 # State
 
